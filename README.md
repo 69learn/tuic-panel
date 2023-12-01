@@ -18,7 +18,7 @@ https://t.me/sixtininelearn
 
 
 # نصب پنل گرافیکی v2raya
-<div align="center"><img src="https://github.com/69learn/tuic-panel/blob/main/v1.png" width="500"></div>
+<div align="center"><img src="https://github.com/69learn/tuic-panel/blob/main/v1.png" width="1500"></div>
 
 ````
 curl -sSL https://apt.v2fly.org/pubkey.gpg | sudo apt-key add -
