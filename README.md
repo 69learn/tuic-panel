@@ -12,6 +12,17 @@ https://t.me/sixtininelearn
 
 
 
+# آموزش نصب در یوتیوب
+<div align="center">
+ <a href="https://www.youtube.com/@sixtininelearn"> SIXTININE LERN </a> <br> <br> <br>
+
+[![tuic web panel ](https://github.com/69learn/tuic-panel/blob/main/you.png)](https://youtu.be/CZL-Iww5v2w "TUIC web panel - Click to Watch!")
+<br><br>
+
+</div>
+
+
+
 # Suggested OSs
 
 - Ubuntu 22
