@@ -1,5 +1,5 @@
 
-
+<div align="center"><img src="https://github.com/69learn/tuic-panel/blob/main/v2raya.jpg" width="350"></div>
   
 # جدیدترین روش نصب TUIC  به همره پنل گرافیکی
 سلام رفقا قبل از هر چیزی ممنون از حمایت هاتون ، خب برای این آموزش که شما علاوه بر نصب توییک به جدبد ترین روش  هستش
